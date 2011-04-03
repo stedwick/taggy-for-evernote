@@ -6,6 +6,8 @@
 	<string>English</string>
 	<key>CFBundleExecutable</key>
 	<string>Taggy for Evernote</string>
+	<key>CFBundleIconFile</key>
+	<string>taggy_icon</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.yourcompany.Taggy_for_Evernote</string>
 	<key>CFBundleInfoDictionaryVersion</key>

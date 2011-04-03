@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
+		35B1E5F01348C05A009CE545 /* taggy_icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = 35B1E5EF1348C05A009CE545 /* taggy_icon.icns */; };
+		35B1E5F61348C0D6009CE545 /* taggy_icon.pxm in Resources */ = {isa = PBXBuildFile; fileRef = 35B1E5F51348C0D6009CE545 /* taggy_icon.pxm */; };
+		35B1E5F81348C0E0009CE545 /* taggy_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B1E5F71348C0E0009CE545 /* taggy_icon.png */; };
 		3B92A9F90F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript in Sources */ = {isa = PBXBuildFile; fileRef = 3B92A9F80F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript */; };
 		3BC3FB040ED20C27004AC079 /* AppleScriptObjC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BC3FB030ED20C27004AC079 /* AppleScriptObjC.framework */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
@@ -24,6 +27,9 @@
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
 		32CA4F630368D1EE00C91783 /* Taggy_for_Evernote_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Taggy_for_Evernote_Prefix.pch; sourceTree = "<group>"; };
+		35B1E5EF1348C05A009CE545 /* taggy_icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = taggy_icon.icns; sourceTree = "<group>"; };
+		35B1E5F51348C0D6009CE545 /* taggy_icon.pxm */ = {isa = PBXFileReference; lastKnownFileType = file; path = taggy_icon.pxm; sourceTree = "<group>"; };
+		35B1E5F71348C0E0009CE545 /* taggy_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = taggy_icon.png; sourceTree = "<group>"; };
 		3B92A9F80F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = Taggy_for_EvernoteAppDelegate.applescript; sourceTree = "<group>"; };
 		3BC3FB030ED20C27004AC079 /* AppleScriptObjC.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppleScriptObjC.framework; path = /System/Library/Frameworks/AppleScriptObjC.framework; sourceTree = "<absolute>"; };
 		8D1107310486CEB800E47090 /* Taggy_for_Evernote-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Taggy_for_Evernote-Info.plist"; sourceTree = "<group>"; };
@@ -102,6 +108,9 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				35B1E5F71348C0E0009CE545 /* taggy_icon.png */,
+				35B1E5F51348C0D6009CE545 /* taggy_icon.pxm */,
+				35B1E5EF1348C05A009CE545 /* taggy_icon.icns */,
 				8D1107310486CEB800E47090 /* Taggy_for_Evernote-Info.plist */,
 				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
 				1DDD58140DA1D0A300B32029 /* MainMenu.xib */,
@@ -170,6 +179,9 @@
 			files = (
 				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
 				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
+				35B1E5F01348C05A009CE545 /* taggy_icon.icns in Resources */,
+				35B1E5F61348C0D6009CE545 /* taggy_icon.pxm in Resources */,
+				35B1E5F81348C0E0009CE545 /* taggy_icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

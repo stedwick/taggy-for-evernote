@@ -2,15 +2,25 @@
 {
 	089C165DFE840E0CC02AAC07 /* English */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 484}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 45}";
+		};
+	};
+	1DDD58150DA1D0A300B32029 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1972, 16861}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{56979, 1720}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 352993EA1347A9290004B3F4 /* Taggy for Evernote */;
 		activeTarget = 8D1107260486CEB800E47090 /* Taggy for Evernote */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Taggy for Evernote */,
+		);
 		codeSenseManager = 352993FE1347A92D0004B3F4 /* Code sense */;
 		executables = (
 			352993EA1347A9290004B3F4 /* Taggy for Evernote */,
@@ -45,7 +55,7 @@
 				);
 			};
 			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
-				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
@@ -144,14 +154,17 @@
 			PBXWorkspaceStateSaveDate = 323529789;
 		};
 		perUserProjectItems = {
-			352995D51348027B0004B3F4 = 352995D51348027B0004B3F4 /* PBXTextBookmark */;
-			352995D71348027B0004B3F4 = 352995D71348027B0004B3F4 /* PBXTextBookmark */;
-			352995D91348027B0004B3F4 = 352995D91348027B0004B3F4 /* PBXTextBookmark */;
-			352995DA1348027B0004B3F4 = 352995DA1348027B0004B3F4 /* PBXTextBookmark */;
-			352995DB1348027B0004B3F4 = 352995DB1348027B0004B3F4 /* PBXTextBookmark */;
-			35CAC5AD13481C9A007555D8 = 35CAC5AD13481C9A007555D8 /* PlistBookmark */;
-			35CAC5AE13481C9A007555D8 = 35CAC5AE13481C9A007555D8 /* PBXTextBookmark */;
-			35CAC678134834B2007555D8 = 35CAC678134834B2007555D8 /* PBXTextBookmark */;
+			352995D51348027B0004B3F4 /* PBXTextBookmark */ = 352995D51348027B0004B3F4 /* PBXTextBookmark */;
+			352995D71348027B0004B3F4 /* PBXTextBookmark */ = 352995D71348027B0004B3F4 /* PBXTextBookmark */;
+			352995D91348027B0004B3F4 /* PBXTextBookmark */ = 352995D91348027B0004B3F4 /* PBXTextBookmark */;
+			352995DA1348027B0004B3F4 /* PBXTextBookmark */ = 352995DA1348027B0004B3F4 /* PBXTextBookmark */;
+			35B1E5FD1348C14F009CE545 /* PBXTextBookmark */ = 35B1E5FD1348C14F009CE545 /* PBXTextBookmark */;
+			35B1E5FE1348C14F009CE545 /* PBXTextBookmark */ = 35B1E5FE1348C14F009CE545 /* PBXTextBookmark */;
+			35B1E5FF1348C14F009CE545 /* PBXTextBookmark */ = 35B1E5FF1348C14F009CE545 /* PBXTextBookmark */;
+			35B1E6001348C14F009CE545 /* PlistBookmark */ = 35B1E6001348C14F009CE545 /* PlistBookmark */;
+			35B1E6011348C14F009CE545 /* PBXBookmark */ = 35B1E6011348C14F009CE545 /* PBXBookmark */;
+			35B1E6021348C14F009CE545 /* PBXBookmark */ = 35B1E6021348C14F009CE545 /* PBXBookmark */;
+			35B1E6031348C14F009CE545 /* PBXBookmark */ = 35B1E6031348C14F009CE545 /* PBXBookmark */;
 		};
 		sourceControlManager = 352993FD1347A92D0004B3F4 /* Source Control */;
 		userBuildSettings = {
@@ -269,7 +282,17 @@
 		vrLen = 167;
 		vrLoc = 0;
 	};
-	352995DB1348027B0004B3F4 /* PBXTextBookmark */ = {
+	35B1E5FD1348C14F009CE545 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1DDD58150DA1D0A300B32029 /* English */;
+		name = "MainMenu.xib: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1720;
+		vrLoc = 56979;
+	};
+	35B1E5FE1348C14F009CE545 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 089C165DFE840E0CC02AAC07 /* English */;
 		name = "InfoPlist.strings: 1";
@@ -279,42 +302,45 @@
 		vrLen = 45;
 		vrLoc = 0;
 	};
-	35CAC5AD13481C9A007555D8 /* PlistBookmark */ = {
+	35B1E5FF1348C14F009CE545 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B92A9F80F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript */;
+		name = "Taggy_for_EvernoteAppDelegate.applescript: 117";
+		rLen = 0;
+		rLoc = 4317;
+		rType = 0;
+		vrLen = 1426;
+		vrLoc = 1623;
+	};
+	35B1E6001348C14F009CE545 /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 8D1107310486CEB800E47090 /* Taggy_for_Evernote-Info.plist */;
 		fallbackIsa = PBXBookmark;
 		isK = 0;
 		kPath = (
+			CFBundleIdentifier,
 		);
 		name = "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/Taggy_for_Evernote-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775808;
+		rLoc = 9223372036854775807;
 	};
-	35CAC5AE13481C9A007555D8 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3B92A9F80F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript */;
-		name = "Taggy_for_EvernoteAppDelegate.applescript: 85";
-		rLen = 0;
-		rLoc = 2775;
-		rType = 0;
-		vrLen = 1193;
-		vrLoc = 875;
+	35B1E6011348C14F009CE545 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 35B1E5F71348C0E0009CE545 /* taggy_icon.png */;
 	};
-	35CAC678134834B2007555D8 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3B92A9F80F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript */;
-		name = "Taggy_for_EvernoteAppDelegate.applescript: 84";
-		rLen = 0;
-		rLoc = 2775;
-		rType = 0;
-		vrLen = 1287;
-		vrLoc = 695;
+	35B1E6021348C14F009CE545 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 35B1E5EF1348C05A009CE545 /* taggy_icon.icns */;
+	};
+	35B1E6031348C14F009CE545 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 35B1E5EF1348C05A009CE545 /* taggy_icon.icns */;
 	};
 	3B92A9F80F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1374, 1214}}";
-			sepNavSelRange = "{2775, 0}";
-			sepNavVisRange = "{695, 1287}";
+			sepNavIntBoundsRect = "{{0, 0}, {1986, 1635}}";
+			sepNavSelRange = "{4317, 0}";
+			sepNavVisRange = "{1623, 1426}";
 			sepNavWindowFrame = "{{289, 73}, {786, 705}}";
 		};
 	};

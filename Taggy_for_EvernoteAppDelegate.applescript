@@ -3,7 +3,7 @@
 --  Taggy for Evernote
 --
 --  Created by Philip Brocoum on 4/2/11.
---  Copyright 2011 readMedia.com. All rights reserved.
+--  Copyright 2011 Philip Brocoum. All rights reserved.
 --
 
 script Taggy_for_EvernoteAppDelegate
@@ -30,7 +30,7 @@ script Taggy_for_EvernoteAppDelegate
 	
 	on hierarchify_(sender)
 		set tnotebookName to notebookSelector's titleOfSelectedItem() as string
-		display dialog "You are about to hierarchify the tags in the notebook " & tnotebookName & ". Press OK to continue. This may take a minute, so just sit tight. Taggy is not frozen, even if the progress bar stops moving. Afterward, see the file taggy_log.txt on your desktop for a full list of all the changes that Taggy made."
+		display dialog "You are about to hierarchify the tags in the notebook " & tnotebookName & ". Press OK to continue. This will take a while, so just sit tight. Taggy is not frozen, even if the progress bar stops moving. Afterward, see the file taggy_log.txt on your desktop for a full list of all the changes that Taggy made."
 		tell progressBar to startAnimation_(sender)
 		delay 1
 		tell application "Evernote"
@@ -62,7 +62,7 @@ script Taggy_for_EvernoteAppDelegate
 	
 	on unhierarchify_(sender)
 		set tnotebookName to notebookSelector's titleOfSelectedItem() as string
-		display dialog "You are about to un-hierarchify the tags in the notebook " & tnotebookName & ". Press OK to continue. This may take a minute, so just sit tight. Taggy is not frozen, even if the progress bar stops moving. Afterward, see the file taggy_log.txt on your desktop for a full list of all the changes that Taggy made."
+		display dialog "You are about to un-hierarchify the tags in the notebook " & tnotebookName & ". Press OK to continue. This will take a while, so just sit tight. Taggy is not frozen, even if the progress bar stops moving. Afterward, see the file taggy_log.txt on your desktop for a full list of all the changes that Taggy made."
 		tell progressBar to startAnimation_(sender)
 		delay 1
 		tell application "Evernote"
@@ -96,6 +96,10 @@ script Taggy_for_EvernoteAppDelegate
 		-- Insert code here to do any housekeeping before your application quits 
 		return current application's NSTerminateNow
 	end applicationShouldTerminate_
+	
+	on myDialog(myMessage)
+		display dialog myMessage
+	end myDialog
 	
 	on replaceText(find, replace, subject)
 		set prevTIDs to text item delimiters of AppleScript
