@@ -15,7 +15,8 @@ script Taggy_for_EvernoteAppDelegate
 	
 	on applicationWillFinishLaunching_(aNotification)
 		-- Insert code here to initialize your application before any files are opened
-		do shell script "cp /dev/null ~/Desktop/taggy_log.txt"
+		do shell script "mkdir -p ~/Library/Application\\ Support/Taggy\\ for\\ Evernote"
+		do shell script "cp /dev/null ~/Library/Application\\ Support/Taggy\\ for\\ Evernote/log.txt"
 		reloadNotebooks()
 	end applicationWillFinishLaunching_
 	
@@ -30,7 +31,7 @@ script Taggy_for_EvernoteAppDelegate
 	
 	on hierarchify_(sender)
 		set tnotebookName to notebookSelector's titleOfSelectedItem() as string
-		display dialog "You are about to hierarchify the tags in the notebook " & tnotebookName & ". Press OK to continue. This will take a while, so just sit tight. Taggy is not frozen, even if the progress bar stops moving. Afterward, see the file taggy_log.txt on your desktop for a full list of all the changes that Taggy made."
+		display dialog "You are about to hierarchify the tags in the notebook " & tnotebookName & ". Press OK to continue. This will take a while, so just sit tight. Taggy is not frozen, even if the progress bar stops moving. Afterward, see the file ~/Library/Application\\ Support/Taggy\\ for\\ Evernote/log.txt for a full list of all the changes that Taggy made."
 		tell progressBar to startAnimation_(sender)
 		delay 1
 		tell application "Evernote"
@@ -62,7 +63,7 @@ script Taggy_for_EvernoteAppDelegate
 	
 	on unhierarchify_(sender)
 		set tnotebookName to notebookSelector's titleOfSelectedItem() as string
-		display dialog "You are about to un-hierarchify the tags in the notebook " & tnotebookName & ". Press OK to continue. This will take a while, so just sit tight. Taggy is not frozen, even if the progress bar stops moving. Afterward, see the file taggy_log.txt on your desktop for a full list of all the changes that Taggy made."
+		display dialog "You are about to un-hierarchify the tags in the notebook " & tnotebookName & ". Press OK to continue. This will take a while, so just sit tight. Taggy is not frozen, even if the progress bar stops moving. Afterward, see the file ~/Library/Application\\ Support/Taggy\\ for\\ Evernote/log.txt for a full list of all the changes that Taggy made."
 		tell progressBar to startAnimation_(sender)
 		delay 1
 		tell application "Evernote"

@@ -1,0 +1,401 @@
+TTaggy for Evernote
+v7
+r0
+t323651658.765583
+cCheck dependencies
+cProcessInfoPlistFile "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Info.plist" Taggy_for_Evernote-Info.plist
+cCopyStringsFile "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/English.lproj/MainMenu.xib"
+cCpResource "build/Release/Taggy for Evernote.app/Contents/Resources/taggy_icon.icns" taggy_icon.icns
+cCpResource "build/Release/Taggy for Evernote.app/Contents/Resources/taggy_icon.pxm" taggy_icon.pxm
+cCpResource "build/Release/Taggy for Evernote.app/Contents/Resources/taggy_icon.png" taggy_icon.png
+cProcessPCH /var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-gadvrojtnmzsuugszqofoownhckm/Taggy_for_Evernote_Prefix.pch.gch Taggy_for_Evernote_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-chcmuleoegiheedbgjkurvguqvag/Taggy_for_Evernote_Prefix.pch.gch Taggy_for_Evernote_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-dgcskyquexrdgjdsrzvesryrdwhn/Taggy_for_Evernote_Prefix.pch.gch Taggy_for_Evernote_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cOSACompile Taggy_for_EvernoteAppDelegate.applescript
+cOSACompile Taggy_for_EvernoteAppDelegate.applescript
+cOSACompile Taggy_for_EvernoteAppDelegate.applescript
+cCompileC "build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/x86_64/main.o" "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/i386/main.o" "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/x86_64/Taggy for Evernote" normal x86_64
+cCompileC "build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/ppc/main.o" "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/i386/Taggy for Evernote" normal i386
+cLd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/ppc/Taggy for Evernote" normal ppc
+cCreateUniversalBinary "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/MacOS/Taggy for Evernote" normal "x86_64 i386 ppc"
+cGenerateDSYMFile "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app.dSYM" "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/MacOS/Taggy for Evernote"
+cTouch "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppleScriptObjC.framework/Headers/AppleScriptObjC.h
+c000000004B73C37C0000000000000100
+t1265877884
+s256
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/AppleScriptObjC.framework/AppleScriptObjC
+c000000004C2434B4000000000004AA20
+t1277441204
+s305696
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/English.lproj/InfoPlist.strings
+c000000004D9A4B33000000000000005C
+t1301957427
+s92
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/English.lproj/MainMenu.xib
+c000000004D9A4B33000000000000E682
+t1301957427
+s59010
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/Taggy_for_EvernoteAppDelegate.applescript
+c000000004D9A562A000000000000119A
+t1301960234
+s4506
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/Taggy_for_Evernote_Prefix.pch
+c000000004D9A4B3300000000000000A7
+t1301957427
+s167
+i<Cocoa/Cocoa.h>
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app
+t1301958858
+s102
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app.dSYM
+t1301958858
+s102
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Info.plist
+t1301958836
+s921
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/MacOS/Taggy for Evernote
+t1301958858
+s45684
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/PkgInfo
+t1301958836
+s8
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1301958838
+s92
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources/English.lproj/MainMenu.nib
+t1301958839
+s11368
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources/Taggy_for_EvernoteAppDelegate.scpt
+t1301958857
+s19160
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources/taggy_icon.icns
+t1301958838
+s181236
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources/taggy_icon.png
+t1301958838
+s93317
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources/taggy_icon.pxm
+t1301958838
+s282744
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/i386/Taggy for Evernote
+t1301958858
+s13136
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/i386/Taggy for Evernote.LinkFileList
+c000000004D9A50B4000000000000008E
+t1301958836
+s142
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/i386/main.o
+t1301958857
+s5924
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/ppc/Taggy for Evernote
+t1301958858
+s12916
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/ppc/Taggy for Evernote.LinkFileList
+c000000004D9A50B4000000000000008D
+t1301958836
+s141
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/ppc/main.o
+t1301958858
+s6096
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/x86_64/Taggy for Evernote
+t1301958857
+s9160
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/x86_64/Taggy for Evernote.LinkFileList
+c000000004D9A50B40000000000000090
+t1301958836
+s144
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/x86_64/main.o
+t1301958857
+s6832
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m
+c000000004D9A4B340000000000000169
+t1301957428
+s361
+i<Cocoa/Cocoa.h>
+i<AppleScriptObjC/AppleScriptObjC.h>
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/taggy_icon.icns
+c000000004D9A4B35000000000002C3F4
+t1301957429
+s181236
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/taggy_icon.png
+c000000004D9A4B350000000000016C85
+t1301957429
+s93317
+
+N/Users/pbrocoum/Documents/XCode/Taggy for Evernote/taggy_icon.pxm
+c000000004D9A4B350000000000045078
+t1301957429
+s282744
+
+N/var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-chcmuleoegiheedbgjkurvguqvag/Taggy_for_Evernote_Prefix.pch.gch
+t1301958848
+s55596848
+
+N/var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-dgcskyquexrdgjdsrzvesryrdwhn/Taggy_for_Evernote_Prefix.pch.gch
+t1301958855
+s52835920
+
+N/var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-gadvrojtnmzsuugszqofoownhckm/Taggy_for_Evernote_Prefix.pch.gch
+t1301958848
+s52967184
+
+NTaggy_for_Evernote-Info.plist
+c000000004D9A556A0000000000000441
+t1301960042
+s1089
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323651636#323651636#0(0"0(0#1#0"8620424288#0"0#
+
+CCodeSign "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app"
+r0
+
+CCompileC "build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/i386/main.o" "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323651657.220859
+e323651657.731380
+r1
+xCompileC
+xbuild/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/i386/main.o
+x/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m323651657#323651657#0(0"0(0#0#57"/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m8620202720#1869"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-generated-files.hmap" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-own-target-headers.hmap" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-all-target-headers.hmap" -iquote "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-project-headers.hmap" "-F/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/include" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/DerivedSources/i386" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/DerivedSources" -include /var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-chcmuleoegiheedbgjkurvguqvag/Taggy_for_Evernote_Prefix.pch -c "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m" -o "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/ppc/main.o" "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s323651657.659193
+e323651658.102753
+r1
+xCompileC
+xbuild/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/ppc/main.o
+x/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m323651657#323651658#0(0"0(0#0#57"/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m8619673568#1876"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-generated-files.hmap" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-own-target-headers.hmap" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-all-target-headers.hmap" -iquote "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-project-headers.hmap" "-F/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/include" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/DerivedSources/ppc" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/DerivedSources" -include /var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-dgcskyquexrdgjdsrzvesryrdwhn/Taggy_for_Evernote_Prefix.pch -c "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m" -o "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/ppc/main.o"0#
+
+CCompileC "build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/x86_64/main.o" "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323651656.776316
+e323651657.508085
+r1
+xCompileC
+xbuild/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/x86_64/main.o
+x/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m323651656#323651657#0(0"0(0#0#57"/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m8609534144#1875"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-generated-files.hmap" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-own-target-headers.hmap" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-all-target-headers.hmap" -iquote "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-project-headers.hmap" "-F/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/include" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/DerivedSources/x86_64" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/DerivedSources" -include /var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-gadvrojtnmzsuugszqofoownhckm/Taggy_for_Evernote_Prefix.pch -c "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/main.m" -o "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/English.lproj/MainMenu.xib"
+s323651636.776794
+e323651639.502044
+r1
+xCompileXIB
+x/Users/pbrocoum/Documents/XCode/Taggy for Evernote/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib323651636#323651639#0(0"0(0#0#77"/Users/pbrocoum/Documents/XCode/Taggy for Evernote/English.lproj/MainMenu.xib8619498944#419"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s323651636.772064
+e323651638.338043
+r1
+xCopyStringsFile
+x/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings323651636#323651638#0(0"0(0#0#82"/Users/pbrocoum/Documents/XCode/Taggy for Evernote/English.lproj/InfoPlist.strings8619598720#407"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources/English.lproj"0#
+
+CCpResource "build/Release/Taggy for Evernote.app/Contents/Resources/taggy_icon.icns" taggy_icon.icns
+s323651638.338244
+e323651638.446377
+r1
+xCpResource
+xbuild/Release/Taggy for Evernote.app/Contents/Resources/taggy_icon.icns
+xtaggy_icon.icns
+lSLF07#2@20"Copy taggy_icon.icns323651638#323651638#0(0"0(0#0#66"/Users/pbrocoum/Documents/XCode/Taggy for Evernote/taggy_icon.icns8620116096#421"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/taggy_icon.icns" "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources"0#
+
+CCpResource "build/Release/Taggy for Evernote.app/Contents/Resources/taggy_icon.png" taggy_icon.png
+s323651638.342185
+e323651638.453085
+r1
+xCpResource
+xbuild/Release/Taggy for Evernote.app/Contents/Resources/taggy_icon.png
+xtaggy_icon.png
+lSLF07#2@19"Copy taggy_icon.png323651638#323651638#0(0"0(0#0#65"/Users/pbrocoum/Documents/XCode/Taggy for Evernote/taggy_icon.png8619757728#420"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/taggy_icon.png" "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources"0#
+
+CCpResource "build/Release/Taggy for Evernote.app/Contents/Resources/taggy_icon.pxm" taggy_icon.pxm
+s323651638.339709
+e323651638.447498
+r1
+xCpResource
+xbuild/Release/Taggy for Evernote.app/Contents/Resources/taggy_icon.pxm
+xtaggy_icon.pxm
+lSLF07#2@19"Copy taggy_icon.pxm323651638#323651638#0(0"0(0#0#65"/Users/pbrocoum/Documents/XCode/Taggy for Evernote/taggy_icon.pxm8615042016#420"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/taggy_icon.pxm" "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources"0#
+
+CCreateUniversalBinary "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/MacOS/Taggy for Evernote" normal "x86_64 i386 ppc"
+s323651658.539183
+e323651658.586594
+r1
+xCreateUniversalBinary
+x/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/MacOS/Taggy for Evernote
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@119"CreateUniversalBinary "build/Release/Taggy for Evernote.app/Contents/MacOS/Taggy for Evernote" normal "x86_64 i386 ppc"323651658#323651658#0(0"0(0#0#66"/Users/pbrocoum/Documents/XCode/Taggy for Evernote/x86_64 i386 ppc8620147520#687"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    /usr/bin/lipo -create "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/x86_64/Taggy for Evernote" "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/i386/Taggy for Evernote" "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/ppc/Taggy for Evernote" -output "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/MacOS/Taggy for Evernote"0#
+
+CCreateUniversalBinary "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/MacOS/Taggy for Evernote" normal "x86_64 i386"
+r0
+
+CGenerateDSYMFile "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app.dSYM" "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/MacOS/Taggy for Evernote"
+s323651658.586692
+e323651658.759687
+r1
+xGenerateDSYMFile
+x/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app.dSYM
+x/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/MacOS/Taggy for Evernote
+lSLF07#2@133"GenerateDSYMFile "build/Release/Taggy for Evernote.app.dSYM" "build/Release/Taggy for Evernote.app/Contents/MacOS/Taggy for Evernote"323651658#323651658#0(0"0(0#0#121"/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/MacOS/Taggy for Evernote8619407936#314"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    /Developer/usr/bin/dsymutil "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/MacOS/Taggy for Evernote" -o "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app.dSYM"0#
+
+CLd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/i386/Taggy for Evernote" normal i386
+s323651657.731488
+e323651658.118753
+r1
+xLd
+x/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/i386/Taggy for Evernote
+xnormal
+xi386
+lSLF07#2@158"Link /Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/i386/Taggy for Evernote323651657#323651658#0(0"0(0#0#0"8620551968#730"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release" "-F/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release" -filelist "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/i386/Taggy for Evernote.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework AppleScriptObjC -o "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/i386/Taggy for Evernote"0#
+
+CLd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/ppc/Taggy for Evernote" normal ppc
+s323651658.102847
+e323651658.538960
+r1
+xLd
+x/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/ppc/Taggy for Evernote
+xnormal
+xppc
+lSLF07#2@157"Link /Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/ppc/Taggy for Evernote323651658#323651658#0(0"0(0#0#0"8620414272#727"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release" "-F/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release" -filelist "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/ppc/Taggy for Evernote.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework AppleScriptObjC -o "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/ppc/Taggy for Evernote"0#
+
+CLd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/x86_64/Taggy for Evernote" normal x86_64
+s323651657.508175
+e323651657.659084
+r1
+xLd
+x/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/x86_64/Taggy for Evernote
+xnormal
+xx86_64
+lSLF07#2@160"Link /Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/x86_64/Taggy for Evernote323651657#323651657#0(0"0(0#0#0"8620335104#736"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release" "-F/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release" -filelist "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/x86_64/Taggy for Evernote.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework AppleScriptObjC -o "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Objects-normal/x86_64/Taggy for Evernote"0#
+
+COSACompile Taggy_for_EvernoteAppDelegate.applescript
+s323651656.699875
+e323651657.220729
+r1
+xOSACompile
+xTaggy_for_EvernoteAppDelegate.applescript
+lSLF07#2@49"Compile Taggy_for_EvernoteAppDelegate.applescript323651656#323651657#0(0"0(0#0#0"8609232864#291"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    /usr/bin/osacompile -l AppleScript -d -o "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Resources/Taggy_for_EvernoteAppDelegate.scpt" Taggy_for_EvernoteAppDelegate.applescript0#
+
+CProcessInfoPlistFile "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Info.plist" Taggy_for_Evernote-Info.plist
+s323651636.747819
+e323651636.771959
+r1
+xProcessInfoPlistFile
+x/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Info.plist
+xTaggy_for_Evernote-Info.plist
+lSLF07#2@37"Process Taggy_for_Evernote-Info.plist323651636#323651636#0(0"0(0#0#80"/Users/pbrocoum/Documents/XCode/Taggy for Evernote/Taggy_for_Evernote-Info.plist8390046068422099968#389"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    builtin-infoPlistUtility Taggy_for_Evernote-Info.plist -genpkginfo "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-chcmuleoegiheedbgjkurvguqvag/Taggy_for_Evernote_Prefix.pch.gch Taggy_for_Evernote_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323651639.504491
+e323651649.436834
+r1
+xProcessPCH
+x/var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-chcmuleoegiheedbgjkurvguqvag/Taggy_for_Evernote_Prefix.pch.gch
+xTaggy_for_Evernote_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile Taggy_for_Evernote_Prefix.pch323651639#323651649#0(0"0(0#0#80"/Users/pbrocoum/Documents/XCode/Taggy for Evernote/Taggy_for_Evernote_Prefix.pch8619774336#1750"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-generated-files.hmap" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-own-target-headers.hmap" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-all-target-headers.hmap" -iquote "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-project-headers.hmap" "-F/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/include" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/DerivedSources/i386" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/DerivedSources" -c "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/Taggy_for_Evernote_Prefix.pch" -o /var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-chcmuleoegiheedbgjkurvguqvag/Taggy_for_Evernote_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-dgcskyquexrdgjdsrzvesryrdwhn/Taggy_for_Evernote_Prefix.pch.gch Taggy_for_Evernote_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s323651648.467350
+e323651655.149846
+r1
+xProcessPCH
+x/var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-dgcskyquexrdgjdsrzvesryrdwhn/Taggy_for_Evernote_Prefix.pch.gch
+xTaggy_for_Evernote_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile Taggy_for_Evernote_Prefix.pch323651648#323651655#0(0"0(0#0#80"/Users/pbrocoum/Documents/XCode/Taggy for Evernote/Taggy_for_Evernote_Prefix.pch8619794560#1758"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-generated-files.hmap" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-own-target-headers.hmap" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-all-target-headers.hmap" -iquote "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-project-headers.hmap" "-F/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/include" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/DerivedSources/ppc" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/DerivedSources" -c "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/Taggy_for_Evernote_Prefix.pch" -o /var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-dgcskyquexrdgjdsrzvesryrdwhn/Taggy_for_Evernote_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-gadvrojtnmzsuugszqofoownhckm/Taggy_for_Evernote_Prefix.pch.gch Taggy_for_Evernote_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323651639.502171
+e323651648.467148
+r1
+xProcessPCH
+x/var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-gadvrojtnmzsuugszqofoownhckm/Taggy_for_Evernote_Prefix.pch.gch
+xTaggy_for_Evernote_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile Taggy_for_Evernote_Prefix.pch323651639#323651648#0(0"0(0#0#80"/Users/pbrocoum/Documents/XCode/Taggy for Evernote/Taggy_for_Evernote_Prefix.pch8619988800#1754"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-generated-files.hmap" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-own-target-headers.hmap" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-all-target-headers.hmap" -iquote "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/Taggy for Evernote-project-headers.hmap" "-F/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/include" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/DerivedSources/x86_64" "-I/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Taggy for Evernote.build/Release/Taggy for Evernote.build/DerivedSources" -c "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/Taggy_for_Evernote_Prefix.pch" -o /var/folders/8U/8Ud87LejHfiwyz7Qrzv+VU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taggy_for_Evernote_Prefix-gadvrojtnmzsuugszqofoownhckm/Taggy_for_Evernote_Prefix.pch.gch0#
+
+CTouch "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app"
+s323651658.759815
+e323651658.765513
+r1
+xTouch
+x/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app
+lSLF07#2@93"Touch /Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app323651658#323651658#0(0"0(0#0#0"8620396640#172"    cd "/Users/pbrocoum/Documents/XCode/Taggy for Evernote"    /usr/bin/touch -c "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/build/Release/Taggy for Evernote.app"0#
+
