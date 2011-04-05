@@ -155,36 +155,17 @@
 			PBXWorkspaceStateSaveDate = 323650804;
 		};
 		perUserProjectItems = {
-			352995D51348027B0004B3F4 = 352995D51348027B0004B3F4 /* PBXTextBookmark */;
-			352995D71348027B0004B3F4 = 352995D71348027B0004B3F4 /* PBXTextBookmark */;
-			352995D91348027B0004B3F4 = 352995D91348027B0004B3F4 /* PBXTextBookmark */;
-			352995DA1348027B0004B3F4 = 352995DA1348027B0004B3F4 /* PBXTextBookmark */;
-			35B1E5FD1348C14F009CE545 = 35B1E5FD1348C14F009CE545 /* PBXTextBookmark */;
-			35B1E5FE1348C14F009CE545 = 35B1E5FE1348C14F009CE545 /* PBXTextBookmark */;
-			35B1E5FF1348C14F009CE545 = 35B1E5FF1348C14F009CE545 /* PBXTextBookmark */;
-			35B1E6001348C14F009CE545 = 35B1E6001348C14F009CE545 /* PlistBookmark */;
-			35B1E6011348C14F009CE545 = 35B1E6011348C14F009CE545 /* PBXBookmark */;
-			35B1E6021348C14F009CE545 = 35B1E6021348C14F009CE545 /* PBXBookmark */;
-			35B1E6031348C14F009CE545 = 35B1E6031348C14F009CE545 /* PBXBookmark */;
-			35DC1ADC134A84FF00C4A5F0 /* PBXBookmark */ = 35DC1ADC134A84FF00C4A5F0 /* PBXBookmark */;
-			35DC1AF1134A85D800C4A5F0 /* PBXBookmark */ = 35DC1AF1134A85D800C4A5F0 /* PBXBookmark */;
-			35DC1AF6134A860B00C4A5F0 /* PBXBookmark */ = 35DC1AF6134A860B00C4A5F0 /* PBXBookmark */;
-			35DC1AF9134A863A00C4A5F0 /* PBXBookmark */ = 35DC1AF9134A863A00C4A5F0 /* PBXBookmark */;
-			35DC1B14134A88F000C4A5F0 /* PBXBookmark */ = 35DC1B14134A88F000C4A5F0 /* PBXBookmark */;
+			352995D51348027B0004B3F4 /* PBXTextBookmark */ = 352995D51348027B0004B3F4 /* PBXTextBookmark */;
+			352995D71348027B0004B3F4 /* PBXTextBookmark */ = 352995D71348027B0004B3F4 /* PBXTextBookmark */;
+			352995D91348027B0004B3F4 /* PBXTextBookmark */ = 352995D91348027B0004B3F4 /* PBXTextBookmark */;
+			352995DA1348027B0004B3F4 /* PBXTextBookmark */ = 352995DA1348027B0004B3F4 /* PBXTextBookmark */;
+			35B1E5FD1348C14F009CE545 /* PBXTextBookmark */ = 35B1E5FD1348C14F009CE545 /* PBXTextBookmark */;
+			35B1E6011348C14F009CE545 /* PBXBookmark */ = 35B1E6011348C14F009CE545 /* PBXBookmark */;
 			35DC1B15134A88F000C4A5F0 /* PBXTextBookmark */ = 35DC1B15134A88F000C4A5F0 /* PBXTextBookmark */;
-			35DC1B16134A88F000C4A5F0 /* PlistBookmark */ = 35DC1B16134A88F000C4A5F0 /* PlistBookmark */;
-			35DC1B17134A88F000C4A5F0 /* PBXTextBookmark */ = 35DC1B17134A88F000C4A5F0 /* PBXTextBookmark */;
-			35DC1B18134A88F000C4A5F0 /* PBXTextBookmark */ = 35DC1B18134A88F000C4A5F0 /* PBXTextBookmark */;
-			35DC1B1B134A8A0800C4A5F0 /* PBXTextBookmark */ = 35DC1B1B134A8A0800C4A5F0 /* PBXTextBookmark */;
-			35DC1B1C134A8A3300C4A5F0 /* PBXTextBookmark */ = 35DC1B1C134A8A3300C4A5F0 /* PBXTextBookmark */;
-			35DC1B23134A8C9800C4A5F0 /* PBXTextBookmark */ = 35DC1B23134A8C9800C4A5F0 /* PBXTextBookmark */;
 			35DC1B24134A8C9800C4A5F0 /* PBXBookmark */ = 35DC1B24134A8C9800C4A5F0 /* PBXBookmark */;
-			35DC1B25134A8C9800C4A5F0 /* PlistBookmark */ = 35DC1B25134A8C9800C4A5F0 /* PlistBookmark */;
-			35DC1B26134A8C9800C4A5F0 /* PlistBookmark */ = 35DC1B26134A8C9800C4A5F0 /* PlistBookmark */;
 			35DC1B2D134A8DAE00C4A5F0 /* PlistBookmark */ = 35DC1B2D134A8DAE00C4A5F0 /* PlistBookmark */;
 			35DC1B2E134A8DAE00C4A5F0 /* PBXTextBookmark */ = 35DC1B2E134A8DAE00C4A5F0 /* PBXTextBookmark */;
-			35DC1B2F134A8DAE00C4A5F0 /* PBXTextBookmark */ = 35DC1B2F134A8DAE00C4A5F0 /* PBXTextBookmark */;
-			35DC1B34134A8DDD00C4A5F0 /* PBXTextBookmark */ = 35DC1B34134A8DDD00C4A5F0 /* PBXTextBookmark */;
+			35DC1B37134AA15B00C4A5F0 /* PBXTextBookmark */ = 35DC1B37134AA15B00C4A5F0 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 352993FD1347A92D0004B3F4 /* Source Control */;
 		userBuildSettings = {
@@ -312,69 +293,9 @@
 		vrLen = 1720;
 		vrLoc = 56979;
 	};
-	35B1E5FE1348C14F009CE545 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 089C165DFE840E0CC02AAC07 /* English */;
-		name = "InfoPlist.strings: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 45;
-		vrLoc = 0;
-	};
-	35B1E5FF1348C14F009CE545 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3B92A9F80F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript */;
-		name = "Taggy_for_EvernoteAppDelegate.applescript: 117";
-		rLen = 0;
-		rLoc = 4506;
-		rType = 0;
-		vrLen = 1426;
-		vrLoc = 1623;
-	};
-	35B1E6001348C14F009CE545 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Taggy_for_Evernote-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			CFBundleIdentifier,
-		);
-		name = "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/Taggy_for_Evernote-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
 	35B1E6011348C14F009CE545 /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = 35B1E5F71348C0E0009CE545 /* taggy_icon.png */;
-	};
-	35B1E6021348C14F009CE545 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 35B1E5EF1348C05A009CE545 /* taggy_icon.icns */;
-	};
-	35B1E6031348C14F009CE545 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 35B1E5EF1348C05A009CE545 /* taggy_icon.icns */;
-	};
-	35DC1ADC134A84FF00C4A5F0 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 35B1E5EF1348C05A009CE545 /* taggy_icon.icns */;
-	};
-	35DC1AF1134A85D800C4A5F0 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 35B1E5EF1348C05A009CE545 /* taggy_icon.icns */;
-	};
-	35DC1AF6134A860B00C4A5F0 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 35B1E5EF1348C05A009CE545 /* taggy_icon.icns */;
-	};
-	35DC1AF9134A863A00C4A5F0 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 35B1E5EF1348C05A009CE545 /* taggy_icon.icns */;
-	};
-	35DC1B14134A88F000C4A5F0 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 35B1E5EF1348C05A009CE545 /* taggy_icon.icns */;
 	};
 	35DC1B15134A88F000C4A5F0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -386,94 +307,9 @@
 		vrLen = 45;
 		vrLoc = 0;
 	};
-	35DC1B16134A88F000C4A5F0 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Taggy_for_Evernote-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			NSPrincipalClass,
-		);
-		name = "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/Taggy_for_Evernote-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	35DC1B17134A88F000C4A5F0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3B92A9F80F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript */;
-		name = "Taggy_for_EvernoteAppDelegate.applescript: 117";
-		rLen = 0;
-		rLoc = 4506;
-		rType = 0;
-		vrLen = 1467;
-		vrLoc = 1623;
-	};
-	35DC1B18134A88F000C4A5F0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3B92A9F80F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript */;
-		name = "Taggy_for_EvernoteAppDelegate.applescript: 117";
-		rLen = 0;
-		rLoc = 4506;
-		rType = 0;
-		vrLen = 1467;
-		vrLoc = 1623;
-	};
-	35DC1B1B134A8A0800C4A5F0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3B92A9F80F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript */;
-		name = "Taggy_for_EvernoteAppDelegate.applescript: 117";
-		rLen = 0;
-		rLoc = 4506;
-		rType = 0;
-		vrLen = 1467;
-		vrLoc = 1623;
-	};
-	35DC1B1C134A8A3300C4A5F0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3B92A9F80F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript */;
-		name = "Taggy_for_EvernoteAppDelegate.applescript: 117";
-		rLen = 0;
-		rLoc = 4506;
-		rType = 0;
-		vrLen = 1467;
-		vrLoc = 1623;
-	};
-	35DC1B23134A8C9800C4A5F0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3B92A9F80F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript */;
-		name = "Taggy_for_EvernoteAppDelegate.applescript: 117";
-		rLen = 0;
-		rLoc = 4506;
-		rType = 0;
-		vrLen = 1467;
-		vrLoc = 1623;
-	};
 	35DC1B24134A8C9800C4A5F0 /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = 35B1E5EF1348C05A009CE545 /* taggy_icon.icns */;
-	};
-	35DC1B25134A8C9800C4A5F0 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Taggy_for_Evernote-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			LSApplicationCategoryType,
-		);
-		name = "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/Taggy_for_Evernote-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	35DC1B26134A8C9800C4A5F0 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Taggy_for_Evernote-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/pbrocoum/Documents/XCode/Taggy for Evernote/Taggy_for_Evernote-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
 	};
 	35DC1B2D134A8DAE00C4A5F0 /* PlistBookmark */ = {
 		isa = PlistBookmark;
@@ -497,17 +333,7 @@
 		vrLen = 1467;
 		vrLoc = 1623;
 	};
-	35DC1B2F134A8DAE00C4A5F0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3B92A9F80F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript */;
-		name = "Taggy_for_EvernoteAppDelegate.applescript: 118";
-		rLen = 0;
-		rLoc = 4506;
-		rType = 0;
-		vrLen = 1562;
-		vrLoc = 2029;
-	};
-	35DC1B34134A8DDD00C4A5F0 /* PBXTextBookmark */ = {
+	35DC1B37134AA15B00C4A5F0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 3B92A9F80F6ED2CB0023785B /* Taggy_for_EvernoteAppDelegate.applescript */;
 		name = "Taggy_for_EvernoteAppDelegate.applescript: 118";
