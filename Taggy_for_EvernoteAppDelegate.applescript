@@ -31,7 +31,7 @@ script Taggy_for_EvernoteAppDelegate
 	
 	on hierarchify_(sender)
 		set tnotebookName to notebookSelector's titleOfSelectedItem() as string
-		display dialog "You are about to hierarchify the tags in the notebook " & tnotebookName & ". Press OK to continue. This will take a while, so just sit tight. Taggy is not frozen, even if the progress bar stops moving. Afterward, see the file ~/Library/Application\\ Support/Taggy\\ for\\ Evernote/log.txt for a full list of all the changes that Taggy made."
+		display dialog "You are about to hierarchify the tags in the notebook " & tnotebookName & ". Press OK to continue. This will take a while, so just sit tight. Taggy is not frozen, even if the progress bar stops moving."
 		tell progressBar to startAnimation_(sender)
 		delay 1
 		tell application "Evernote"
@@ -50,7 +50,7 @@ script Taggy_for_EvernoteAppDelegate
 						end if
 						set logMessage to "Adding tag: \"" & tparent's name & "\" to note: \"" & tnote's title & "\""
 						set logMessage to my replaceText("'", "'\\''", logMessage)
-						do shell script "echo '" & logMessage & "' >> ~/Desktop/taggy_log.txt"
+						do shell script "echo '" & logMessage & "' >> ~/Library/Application\\ Support/Taggy\\ for\\ Evernote/log.txt"
 						assign tparent to tnote
 						set tparent to tparent's parent
 					end repeat
@@ -59,11 +59,12 @@ script Taggy_for_EvernoteAppDelegate
 		end tell
 		tell progressBar to stopAnimation_(sender)
 		display dialog "Notebook " & tnotebookName & " has been hierarchified." buttons {"Cool!"} default button 1
+        do shell script "open ~/Library/Application\\ Support/Taggy\\ for\\ Evernote/log.txt"
 	end hierarchify_
 	
 	on unhierarchify_(sender)
 		set tnotebookName to notebookSelector's titleOfSelectedItem() as string
-		display dialog "You are about to un-hierarchify the tags in the notebook " & tnotebookName & ". Press OK to continue. This will take a while, so just sit tight. Taggy is not frozen, even if the progress bar stops moving. Afterward, see the file ~/Library/Application\\ Support/Taggy\\ for\\ Evernote/log.txt for a full list of all the changes that Taggy made."
+		display dialog "You are about to un-hierarchify the tags in the notebook " & tnotebookName & ". Press OK to continue. This will take a while, so just sit tight. Taggy is not frozen, even if the progress bar stops moving."
 		tell progressBar to startAnimation_(sender)
 		delay 1
 		tell application "Evernote"
@@ -82,7 +83,7 @@ script Taggy_for_EvernoteAppDelegate
 						end if
 						set logMessage to "Removing tag: \"" & tparent's name & "\" from note: \"" & tnote's title & "\""
 						set logMessage to my replaceText("'", "'\\''", logMessage)
-						do shell script "echo '" & logMessage & "' >> ~/Desktop/taggy_log.txt"
+						do shell script "echo '" & logMessage & "' >> ~/Library/Application\\ Support/Taggy\\ for\\ Evernote/log.txt"
 						unassign tparent from tnote
 						set tparent to tparent's parent
 					end repeat
@@ -91,6 +92,7 @@ script Taggy_for_EvernoteAppDelegate
 		end tell
 		tell progressBar to stopAnimation_(sender)
 		display dialog "Notebook " & tnotebookName & " has been un-hierarchified." buttons {"Okey-dokey"} default button 1
+        do shell script "open ~/Library/Application\\ Support/Taggy\\ for\\ Evernote/log.txt"
 	end unhierarchify_
 	
 	on applicationShouldTerminate_(sender)
